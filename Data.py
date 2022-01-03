@@ -58,7 +58,7 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
+A telegram bot to generate pyrogram and telethon string session by @TeamDeeCode
 
 Source Code : [Click Here](https://github.com/AMANTYA1/String_gen)
 
