@@ -5,19 +5,20 @@ class Data:
     # Start Message
     START = """
 Hey {}
+
+Welcome to {}
 Bot For help You to Create Session.
 [➼](https://telegra.ph/file/e1d35e61bd7e3bef4bfc8.jpg) So What U Waiting For Generat STRING Session
 ───────────────────────
-Welcome to {}
 
 If you don't trust this bot, 
 1) stop reading this message
 2) delete this chat
-
+───────────────────────
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!
+✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [Tᴇᴀᴍ DᴇCᴏᴅᴇ!](https://t.me/DeeCodeBots)
     """
 
     # Home Button
