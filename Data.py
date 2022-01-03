@@ -5,7 +5,9 @@ class Data:
     # Start Message
     START = """
 Hey {}
-(https://telegra.ph/file/e1d35e61bd7e3bef4bfc8.jpg)
+Bot For help You to Create Session.
+[➼](https://telegra.ph/file/e1d35e61bd7e3bef4bfc8.jpg) So What U Waiting For Generat STRING Session
+───────────────────────
 Welcome to {}
 
 If you don't trust this bot, 
