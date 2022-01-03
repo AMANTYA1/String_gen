@@ -5,7 +5,7 @@ class Data:
     # Start Message
     START = """
 Hey {}
-
+(https://telegra.ph/file/e1d35e61bd7e3bef4bfc8.jpg)
 Welcome to {}
 
 If you don't trust this bot, 
