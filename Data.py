@@ -24,7 +24,6 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Home Button
     home_buttons = [
         [InlineKeyboardButton("💟 Start Generating Session 💟", callback_data="generate")],
-        [InlineKeyboardButton(text="🚸 Return Home 🚸", callback_data="home")]
     ]
 
     generate_button = [
@@ -58,7 +57,7 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @TeamDeeCode
+A telegram bot to Manage group and generate pyrogram and telethon string session by @TeamDeeCode
 
 Source Code : [Click Here](https://github.com/AMANTYA1/String_gen)
 
