@@ -1,6 +1,6 @@
 git+https://github.com/pyrogram/pyrogram.git
 Telethon
 TgCrypto
-SQLAlchemy
+sqlalchemy
 psycopg2
 pyromod
