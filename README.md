@@ -61,9 +61,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [DeeCodeUpdates](https://t.me/DeeCodeBots)
+Channel :- [Bot Duniya](https://t.me/BotDuniya)
 
-Group Chat :- [Group support](https://t.me/DeCodeSupport)
+Group Chat :- [Group support](https://t.me/PmPermit)
 
 ## :)
 
