@@ -3,7 +3,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/AMANTYA1"><img src="https://telegra.ph/file/e1d35e61bd7e3bef4bfc8.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/AMANTYA1"><img src="https://telegra.ph/file/ddedafcf0c0cc04b4a320.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
