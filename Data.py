@@ -8,7 +8,7 @@ Hey {}
 
 Welcome to {}
 Bot For help You to Create Session.
-[➼](https://telegra.ph/file/e1d35e61bd7e3bef4bfc8.jpg) So What U Waiting For Generat STRING Session
+[➼](https://telegra.ph/file/244a1d5f862b0991d13b6.jpg) So What U Waiting For Generat STRING Session
 ───────────────────────
 
 If you don't trust this bot, 
@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [Tᴇᴀᴍ DᴇCᴏᴅᴇ!](https://t.me/DeeCodeBots)
+✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [Kɪɢᴏ!](https://t.me/kigo_omfo)
     """
 
     # Home Button
@@ -33,12 +33,12 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🎉 Start Generating Session 🎉", callback_data="generate")],
-        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/DeeCodeBots/32")],
+        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/kigo_omfo")],
         [
             InlineKeyboardButton("How to Use 🤭❔", callback_data="help"),
             InlineKeyboardButton("😏 About 😏", callback_data="about")
         ],
-        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/DeeCodeBots")],
+        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/kigo_omfo")],
     ]
 
     # Help Message
@@ -65,5 +65,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @TeamDeeCode
+Developer : @kigo_omfo
     """
